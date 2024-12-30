@@ -17,6 +17,21 @@ A web-based tool for parsing and analyzing Network Abstraction Layer Units (NALU
 
 First, install the dependencies:
 
+```bash
+npm install
+```
+
+Then, run the development server:
+
+```bash
+npm run dev
+```
+
+## Demo
+
+You can try out the live demo at: [nalu-analyzer.vpnight.xyz](https://nalu-analyzer.vpnight.xyz)
+
+
 ## References
 
 - [ITU-T H.264 Specification](https://www.itu.int/rec/T-REC-H.264)
