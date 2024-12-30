@@ -259,7 +259,7 @@ export default function Home() {
     <main className="container mx-auto p-4 space-y-4">
       <Card>
         <CardHeader>
-          <CardTitle>NALU Parser Tool</CardTitle>
+          <CardTitle>NALU Analysis Tool</CardTitle>
         </CardHeader>
         <CardContent>
           <Tabs defaultValue="input">
